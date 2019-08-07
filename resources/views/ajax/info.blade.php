@@ -1,0 +1,12 @@
+<script>
+$(function(){
+	$("#siteSub").hide();
+	$("#contentSub").hide();
+	$(".dablink").hide();
+	$(".mw-jump-link").hide();
+	$(".mbox-text-div").hide();
+	$(".toc").hide();
+	$(".toctitle").hide();
+	$(".mw-editsection").hide();
+	$(".noprint").hide();
+</script>
